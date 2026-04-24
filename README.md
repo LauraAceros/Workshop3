@@ -48,7 +48,7 @@ Puedes obtener una key gratuita en [aistudio.google.com](https://aistudio.google
 ## Estructura del proyecto
 
 ```
-├── 05_ejercicio__1_.ipynb   # Notebook principal
+├── 05_ejercicio_(8)W3_.ipynb   # Notebook principal
 ├── requirements.txt         
 └── attention_is_all_you_need.pdf  # Se descarga automáticamente
 ```
